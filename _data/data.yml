@@ -470,7 +470,7 @@ skills:
           - name: Python,Java,Scala,Swift,C#,R
 
     database:
-          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata
+          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata,Hive,Spark,Hbase
 
     dataVisualization:
           - name: Microstrategy,PowerBI,Excel
