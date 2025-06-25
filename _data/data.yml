@@ -14,7 +14,7 @@ sidebar:
     email: keinchan615@gmail.com
     phonecn: +853 6521 7615
     phonejp: +81 80 9556 9252
-    website: chankein.github.io/Kein-cv-zh/ #do not add http://
+    website: keinchan.com/ #do not add http://
     weixin: KEINCHAN615
     line: chankein
     # linkedin: alandoe
@@ -23,16 +23,16 @@ sidebar:
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # http://localhost:4000/assets/resume_cn.pdf
-    # https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
-    # resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    # https://chankein.github.io/resume/assets/resume_cn.pdf
+    # resume: https://chankein.github.io/resume/assets/resume_cn.pdf
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://keinchan.com/Kein-cv-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.pdf
-    excel: https://keinchan.com/Kein-cv-zh/assets/陳啓瑩履歴書202505.xls
-    word: https://keinchan.com/Kein-cv-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.docx
+    pdf: https://keinchan.com/resume-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.pdf
+    # excel: https://keinchan.com/resume-zh/assets/陳啓瑩履歴書202505.xls
+    word: https://keinchan.com/resume-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.docx
 
     languages:
       - idiom: 日語
@@ -87,9 +87,9 @@ career-profile:
         - **企業內部跨部門溝通**:辣媽幫商業智能組,豐田集團智能都市
         - **集團內部公司間溝通**:軟銀機器人對企業開發項目,樂天集團內部銀行/信用卡公司間協作,Line Yahoo集團的數據倉庫遷移
         - **與外部供應商的溝通**:日本戶籍系統電子化項目(與俄羅斯OCR模塊開發商的溝通)
-      了解我的項目經歷細節,請點擊此處查看:<a href="https://keinchan.com/Kein-cv-zh/project.html">https://keinchan.com/Kein-cv-zh/project.html</a>
+      了解我的項目經歷細節,請點擊此處查看:<a href="https://keinchan.com/resume-zh/project.html">https://keinchan.com/resume-zh/project.html</a>
     changelanguage: To English
-    changelanguageurl: https://keinchan.com/Kein-cv/ 
+    changelanguageurl: https://keinchan.com/resume/ 
 
 experiences:
     - role: 高級全棧技術顧問 & 數據架構師
@@ -216,7 +216,7 @@ expertise:
 
 projects:
     changelanguage: To English
-    changelanguageurl: https://keinchan.com/Kein-cv/project.html 
+    changelanguageurl: https://keinchan.com/resume/project.html 
     backToTOp: 點此轉到簡歷首頁
     title: 項目經驗(Projects)
     intro: |  
@@ -505,4 +505,4 @@ skills:
           - name: Photoshop,Figma
 
 footer: >
-    本線上簡歷由Kein Chan(陳啓瑩)開發.
+    本線上簡歷由Kein Chan(陳啓瑩)製作.
