@@ -30,9 +30,9 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://keinchan.com/resume-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.pdf
+    pdf: https://keinchan.com/resume-zh/assets/KeinChan_Resume_202506.pdf
     # excel: https://keinchan.com/resume-zh/assets/陳啓瑩履歴書202505.xls
-    word: https://keinchan.com/resume-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.docx
+    word: https://keinchan.com/resume-zh/assets/KeinChan_Resume_202506.docx
 
     languages:
       - idiom: 日語
@@ -361,7 +361,23 @@ skills-details:
           
           - name: C#
             level: 75%
+ 
+    platform:
+          - name: Linux
+            level: 90%
 
+          - name: Windows
+            level: 75%
+
+          - name: MacOS
+            level: 60%
+ 
+    versionControl:
+          - name: Github
+            level: 90%
+
+          - name: Git
+            level: 75%
 
     database:
           - name: Mysql
@@ -372,59 +388,6 @@ skills-details:
 
           - name: OracleDB
             level: 90%
-
-          - name: Teradata
-            level: 85%
-
-          - name: Hadoop
-            level: 85%
-
-    dataVisualization:
-          - name: Microstrategy
-            level: 90%
-
-          - name: Power BI
-            level: 90%
-
-          - name: Excel
-            level: 90%
-
-          - name: StreamLit
-            level: 90%
-
-    versionControl:
-          - name: Github
-            level: 90%
-
-          - name: Git
-            level: 75%
-
-    platform:
-          - name: Linux
-            level: 90%
-
-          - name: Windows
-            level: 75%
-
-          - name: MacOS
-            level: 50%
-
-    cloudComputing:
-          - name: AWS
-            level: 50%
-
-          - name: Google Cloud
-            level: 30%
-
-    containerTechnology:
-          - name: Docker
-            level: 90%
-
-          - name: Vagrant
-            level: 75%
-
-          - name: Ansible
-            level: 75%
 
     framework:
           - name: Django
@@ -444,6 +407,9 @@ skills-details:
 
           - name: WPF
             level: 60%
+          
+          - name: React Native
+            level: 50%
 
     testTools:
           - name: Pytest
@@ -458,6 +424,53 @@ skills-details:
           - name: Postman
             level: 75% 
 
+    containerTechnology:
+          - name: Docker
+            level: 90%
+
+          - name: Vagrant
+            level: 75%
+
+          - name: Ansible
+            level: 75%
+
+    cloudComputing:
+          - name: AWS
+            level: 50%
+
+          - name: Google Cloud
+            level: 30%
+
+    dataWarehouse:
+          - name: Teradata
+            level: 85%
+
+          - name: Redshift
+            level: 85%
+            
+    bigDataEcosystem:
+          - name: Hadoop
+            level: 85%
+
+          - name: Hive
+            level: 65%
+          
+          - name: HBase
+            level: 65%
+          
+          - name: Spark
+            level: 65%
+
+    dataVisualization:
+          - name: Microstrategy
+            level: 90%
+
+          - name: Power BI
+            level: 90%
+
+          - name: StreamLit
+            level: 90%
+
     UIDesign:
           - name: Photoshop
             level: 75%
@@ -469,29 +482,41 @@ skills:
     programming:
           - name: Python,Java,Scala,Swift,C#,R
 
-    database:
-          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata,Hive,Spark,Hbase
-
-    dataVisualization:
-          - name: Microstrategy,PowerBI,Excel
-
-    versionControl:
-          - name: Github,Git
-
     platform:
           - name: Linux,Windows,MacOS
 
-    cloudComputing:
-          - name: AWS
+    versionControl:
+          - name: Github,Git
+          
+    database:
+          - name: Mysql,PostgreSQL,OracleDB
 
-    containerTechnology:
-          - name: Docker,Vagrant,Ansible
+    framework(Backend):
+          - name: Spring Boot,Django,Flask,FastApi
 
-    framework:
-          - name: Spring Boot,Django,Flask,FastApi,SwiftUI,WPF
-
+    framework(App):
+          - name: SwiftUI,WPF,React Native
+  
     testTools:
           - name: Pytest,Junit,Selenium,Postman
+  
+    containerTechnology:
+          - name: Docker,Vagrant,Ansible
+  
+    cloudComputing:
+          - name: AWS,GCP
+
+    CI/CD:
+          - name: Github Actions,Travis CI
+
+    dataWarehouse:
+          - name: Redshift,Teradata
+
+    bigDataEcosystem:
+          - name: Hadoop,Hive,HBase,Spark
+
+    dataVisualization:
+          - name: Microstrategy,PowerBI,StreamLit
 
     UIDesign:
           - name: Photoshop,Figma
