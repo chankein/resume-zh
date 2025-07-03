@@ -93,7 +93,7 @@ career-profile:
 
 experiences:
     - role: 高級全棧技術顧問 & 數據架構師
-      time: 2022.10 - 至今
+      time: 2022.11 - 至今
       company: Amigo技術咨詢工作室, 東京 
       details: |
         - LY集團數據倉庫遷移:作為技術組長兼項目經理,主導日本Line Yahoo集團企業級數據平台遷移：包括完成從Teradata本地數據中心到AWS Redshift的完整技術方案驗證;負責遷移資源評估與項目進度管控,確保按時交付;開發標準化遷移流程與數據校驗機制,保障數據一致性;協調集團內部事業部的技術對接與資源調配.
@@ -117,7 +117,7 @@ experiences:
         名詞解釋:
         - OCR: Optical Character Recognition,文字識別技術
         - TRI-AD: Toyota Research Institute - Advanced Development.豐田集團的核心研發機構,負責自動駕駛算法,自行走機器人等核心技術的開發任務.
-        - Woven City: 位於日本靜岡縣內,可供超過3000戶居民居住的社區.是由豐田集團主導開發用於展示未來人類居住概念的智能都市.
+        - Woven City: 位於日本靜岡縣內,可供超過2000戶居民居住的社區.是由豐田集團主導開發用於展示未來人類居住概念的智能都市.
 
     - role: 測試開發工程師
       time: 2018.06 - 2019.08
