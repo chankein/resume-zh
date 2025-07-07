@@ -317,7 +317,7 @@ projects:
                     1. 針對未開發完成的外部系統和內部實例,通過Flask進行快速開發mock服務,以滿足開發期間的接口測試需求.
 
       - title: 對企業開發項目 (軟銀機器人Softbank Robotics)
-        link: "https://www.softbankrobotics.com/emea/en/pepper/"
+        link: "https://www.softbankrobotics.com/solution/"
         role: "測試工程師"
         description: 負責人形機器人Pepper的管理系統測試和對企業定制開發的功能程序測試工作,確保系統穩定性和功能性符合商業應用標準.</br>
         KeyAchievements: |
