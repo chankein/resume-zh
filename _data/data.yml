@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啓瑩
-    tagline: 全棧高級技術顧問 <br/> 數據架構師
+    tagline: 全棧技術顧問 <br/> 數據架構師
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,13 +57,16 @@ sidebar:
       - item: MySQL 8.0 Database Developer Oracle Certified Professional
         link:
 
+      - item: MySQL 8.0 Database Administrator Oracle Certified Professional
+        link:
+
+      - item: Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+        link:
+
       - item: Oracle Cloud Infrastructure 2025 Data Science Professional
         link:
 
       - item: Abbyy FC 12 Solution Architect Certification Advanced
-        link:
-
-      - item: IT Passport
         link:
       
       - item: Google Analytics Advanced
@@ -74,7 +77,7 @@ brief:
     title: About Me
     summary: |
       Senior Engineer with over 10 years of experience in practical AI/Big-Data projects.<br/>
-      Provide solutions for the Japanese Government, Toyota, LY Crop(Line Yahoo), Fuji Film(Xerox), and Fujitsu Network Solutions.<br/>
+      Provide solutions for the Japanese Government, Toyota, LY Crop(Line Yahoo), Fuji Film(Xerox) etc.<br/>
       <br/>
       I am a Macau Resident, currently working in Japan as a permanent resident.<br/>
       Seeking job opportunities in Macau for family reasons.
@@ -83,7 +86,7 @@ career-profile:
     title: 職業簡介(Career Profile)
     summary: |
       **資深技術專家與項目負責人**:擁有超過10年企業級全棧開發與大數據架構經驗,具備完整的軟件開發全週期實戰經驗,擅長跨部門、跨公司及跨國企業的協作與技術團隊管理.
-      - **技術領導力**:在樂天Pay、Line Yahoo集團等日本知名企業項目中擔任技術負責人,領導5-15人團隊,主導技術難題攻關、團隊技術培訓、項目問題管理,並負責需求分析與標準化開發流程制定.
+      - **技術領導力**:在Line Yahoo, Softbank集團等日本知名企業項目中擔任技術負責人,領導5-15人團隊,主導技術難題攻關、團隊技術培訓、項目問題管理,並負責需求分析與標準化開發流程制定.
       - **數據解決方案**:曾為辣媽幫（340萬日活用戶）設計數據中台,通過用戶畫像與A/B測試提升用戶留存率7.67%;為日本政府開發OCR工具,將原需10年人工處理的工作縮短至4小時完成;主導Line Yahoo和Softbank集團數據倉庫雲服務框架遷移,顯著降低運維成本.
       - **項目合規**:在多個涉及日本國民個人信息的項目中,嚴格執行數據安全與合規標準,確保所有項目均無合規事故發生.
 
@@ -98,20 +101,19 @@ career-profile:
     changelanguageurl: https://keinchan.com/resume/ 
 
 experiences:
-    - role: 高級全棧技術顧問 & 數據架構師
+
+    - role: 全棧技術顧問 & 數據架構師
       time: 2022.11 - 至今
       company: Amigo技術咨詢工作室, 東京 
       details: |
         - LY集團數據倉庫遷移:作為技術組長兼項目經理,主導日本Line Yahoo集團企業級數據平台遷移：包括完成從Teradata本地數據中心到AWS Redshift的完整技術方案驗證;負責遷移資源評估與項目進度管控,確保按時交付;開發標準化遷移流程與數據校驗機制,保障數據一致性;協調集團內部事業部的技術對接與資源調配.
-        - 樂天Pay(即時支付)項目:樂天Pay是日本第二大電子支付軟件.帶領服務端技術團隊開發信用卡和電子支付/充值功能的服務端部分的功能更新迭代.牽頭相關方的溝通會議,確定系統間對接的接口標準,確保新功能與現有的支付系統無縫集成.
         - 日本人流統計系統:日本三大電信商之一softbank的內部項目.通過獲取信號基地站和GPS定位數據,持續管理移動電話的位置情報,形成占日本約三分一人口的數據倉庫.負責底層框架的檢證調查,以及部分可視化任務.項目涉及大量國民的個人資訊,需要嚴格執行個人私隱保護合規要求.
-        - 日本旅遊行程自動生成APP(個人開發項目):App根據用戶輸入的起點終點,移動方法和旅遊目的地信息,自動規劃行程方案.項目涵蓋:需求分析與系統架構規劃,UI設計,APP開發,服務端開發,管理後台網頁開發,爬蟲數據收集.
-        - Azas項目:Azas是一款面向建設現場的數字化安全管理平台,通過智能手機APP讓工人自主上報日常安全隱患並記錄安全行爲,實現施工環境的安全優化.负责核心模块实现与系统兼容性维护.
+        - 日本旅遊行程自動生成APP(個人開發項目):App根據用戶輸入的起點終點,移動方法和旅遊目的地信息,自動規劃行程方案.項目涵蓋:需求分析與系統架構規劃,UI設計,APP開發,服務端開發,管理後台網頁開發,爬蟲數據收集等技術應用.
         - 日本音樂創作App-Nanamusic項目:負責服務端管理開發和系統維護,及時應對版本更新,惡意攻擊等造成的系統故障.
       description: | 
       
 
-    - role: 服務端工程師(服務端技術專家)
+    - role: 服務端工程師
       time: 2019.09 - 2022.10
       company: OST株式會社(東證代碼:2427), 東京 
       details: |
@@ -243,17 +245,6 @@ projects:
                     1. 數據一致性保障:定義數據校驗標準,開發並持續優化自動化校驗框架和腳本.
                     1. 問題監控:實時監控遷移進度,協調解決技術團隊執行過程中出現的各類問題.
 
-      - title: 樂天Pay
-        link: "https://payment.rakuten.co.jp/"
-        role: "服務端小組技術組長"
-        description: 樂天Pay是日本的頭部電子支付軟件,我帶領的小組負責服務端的部分功能迭代與維護.
-        KeyAchievements: |
-                    1. 負責組織與相關外部系統(信用卡/銀行)的對接會議,保障新功能正常與現有支付系統無縫整合.
-                    1. 通過Jira實施敏捷項目管理,高效分配開發任務並追蹤問題解決進度.
-                    1. 負責小組的代碼審查,保障團隊代碼質量與可維護性.
-                    1. 審查API設計文檔及UT,IT和PT的測試觀點和測試報告.
-                    1. 開發支付系統新功能模塊,協調服務端與移動端的技術對接.
-
       - title: 日本人流統計系統
         link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
         role: "大數據工程師(技術組長)"
@@ -276,15 +267,6 @@ projects:
                     1. 搭建雲服務架構,實現CI/CD自動化部署流程.
                     1. 通過GitHub Projects實施敏捷項目管理,高效追蹤任務進度
 
-      - title: Azas建築安全推進App項目
-        link: "https://sales.azas-token.com/"
-        role: "技術顧問兼項目經理"
-        description: Azas是一款創新的建築工地數字化管理平台,透過智能手機App實現安全隱患自主上報與安全行為記錄,結合即時獎勵機制提升施工現場安全文化.本項目採用敏捷開發方法.
-        KeyAchievements: |
-                    1. 技术调研:主導新功能開發的技術可行性評估與架構設計.
-                    1. 项目管理:負責項目進度管理與跨部門協調,及時解決開發過程中的技術難題.
-                    1. 跨平台适配:解決React Native框架在Android/iOS系統版本升級中的兼容性問題,確保跨平台穩定性.
-
       - title: Nanamusic音乐App
         link: "https://nana-music.com/"
         role: "服務端工程師"
@@ -295,6 +277,7 @@ projects:
                     1. 雲服務管理: 負責AWS等雲服務平臺基於Terraform的IaC(Infrastructure as Code)開發管理,減少了人工操作時的錯誤概率,提高了系統的可靠性.
                     1. 服務器監控與應急處理: 監控服務器資源,及時響應服務器故障,必要時進行版本回滾,對抗惡意攻擊,如封禁IP等.
                     1. 運營管理平臺開發: 通過開發和改進運營管理平臺,提高了運營團隊對侵犯版權作品的處理效率,以及樂曲數據的及時更新.
+                    1. 跨平台适配:解決React Native框架在Android/iOS系統版本升級中的兼容性問題,確保跨平台穩定性.
 
       - title: 日本戶籍系統電子化項目(富士菲林)
         link: "https://www.fujifilm.com/fbss/solution/public/"
