@@ -87,8 +87,10 @@ career-profile:
     summary: |
       **全棧工程師與數據架構師**：擁有10年以上企業級全棧開發與數據應用經驗,熟練應用軟件開發全週期（SDLC）,擅長領導分布式團隊,設計高效、穩定的web/移動應用及數據整合解決方案,助力業務目標實現。
       - **技術領導**：在Line Yahoo集團帶領15人團隊,制定開發標準與流程,管理小組項目進度,協調資源分配,在高壓環境下帶領團隊按時交付高負載應用。
-      - **數據應用與整合**：為340萬日活用戶平台設計數據中台,通過A/B測試提升留存率7.67%，支持實時數據分析;開發OCR工具,將10年人工處理縮至4小時,實現高效數據整合;負責本地數據倉庫向AWS Redshift遷移項目,顯著降低運維成本,提升系統效率.
-      - **核心優勢**：熟練應用web/移動等多平台應用的前後端框架技術（Django、Swift、WPF等）,擁有從需求分析、系統設計、技術選型到架構設計、測試、部署、CI/CD及運維的全生命周期開發經驗.嚴格遵循數據安全標準,確保合規.
+      - **數據應用與整合**：為340萬日活用戶平台設計數據中台,通過A/B測試提升留存率7.67%,支持實時數據分析;開發OCR工具,將10年人工處理縮至4小時,實現高效數據整合;負責本地數據倉庫向AWS Redshift遷移項目,顯著降低運維成本,提升系統效率.
+      - **核心優勢**：
+        - 技術專長：熟練掌握多種編程語言和開發框架,如Python,Java,C#,SwiftUI等,能夠根據項目需求選擇高效的技術棧並進行高效開發.熟練掌握Django,Spring Boot, Flask等框架,擁有豐富的雲平台部署和系統服務管理經驗,能夠為大規模分佈式系統提供穩定的技術支持.具備獨立設計UI,並運用SwiftUI進行iOS和運用C#/WPF框架獨立開發App的能力.
+        - 開發流程經驗：熟練應用SDLC全週期,涵蓋需求分析、設計、開發、測試、CI/CD到運維,擅長敏捷/Scrum管理,促進高效交付
       (詳見項目細節:<a href="https://keinchan.com/resume-zh/project.html">https://keinchan.com/resume-zh/project.html</a>)
     changelanguage: To English
     changelanguageurl: https://keinchan.com/resume/ 
@@ -165,11 +167,11 @@ education:
 expertise:
     title: 專業技能(Areas of Expertise)
     intro: >
-      本部分主要展示我掌握的技術棧.了解更多技術細節,請前往我的技術博客:<a href="https://keinchan.com/">https://keinchan.com/</a>
+      本部分主要展示我掌握的技術技能.了解更多技術細節,請前往我的技術博客:<a href="https://keinchan.com/">https://keinchan.com/</a>
     assignments:
       - title: 團隊領導與SDLC（瀑布/敏捷）
         link: "#"
-        tagline: "擁有5-15人技術團隊管理經驗,成功領導樂天Pay、LY集團等企業級項目.熟練實施敏捷開發（Scrum）與瀑布模型,能根據項目特性靈活選擇開發方法論.擅長建立標準化開發流程,通過Jira等工具實現需求追蹤與效能管理."
+        tagline: "擁有5-15人技術團隊管理經驗,成功領導Softbank、LY集團等企業級項目.熟練實施敏捷開發（Scrum）與瀑布模型,能根據項目特性靈活選擇開發方法論.擅長建立標準化開發流程,通過Jira等工具實現需求追蹤與效能管理."
 
       - title: 編程語言與服務端框架
         link: "#"
@@ -463,7 +465,7 @@ skills-details:
           - name: Figma
             level: 75%
 skills:
-    title: 技術棧(Technical Skills)
+    title: 技術技能(Technical Skills)
     programming:
           - name: Python,Java,Scala,Swift,C#,R
 
