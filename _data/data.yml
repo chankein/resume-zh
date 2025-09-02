@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啓瑩
-    tagline: 全棧技術顧問 <br/> 數據架構師
+    tagline: 全棧工程師 <br/> 數據架構師
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -85,17 +85,17 @@ brief:
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      **全棧工程師與數據架構師**：擁有10年以上企業級全棧開發與數據應用經驗,熟練應用軟件開發全週期（SDLC）開發,擅長領導分布式團隊,設計高效、穩定的web/移動應用及數據整合解決方案,助力業務目標實現。
-      - **技術領導**：在Line Yahoo集團企業帶領5-15人團隊,制定開發標準與流程,管理項目進度與預算,協調資源分配,在高壓環境下帶領團隊按時交付高負載應用。
-      - **應用與整合**：為340萬日活用戶平台設計數據中台,通過A/B測試提升留存率7.67%,類似玩家行為實時分析與CRM整合;開發OCR工具,將10年人工處理縮至4小時,類似玩家身份驗證整合;負責AWS Redshift遷移,顯著降低運維成本,提升系統效率。
-      - **核心優勢**：熟練應用web/移動應用技術（Django、Swift、React Native）、企業級整合（AWS、API）與敏捷/Scrum管理,嚴格遵循數據安全標準,確保合規。擅長跨國協作,推薦技術策略促進業務增長
+      **全棧工程師與數據架構師**：擁有10年以上企業級全棧開發與數據應用經驗,熟練應用軟件開發全週期（SDLC）,擅長領導分布式團隊,設計高效、穩定的web/移動應用及數據整合解決方案,助力業務目標實現。
+      - **技術領導**：在Line Yahoo集團帶領15人團隊,制定開發標準與流程,管理小組項目進度,協調資源分配,在高壓環境下帶領團隊按時交付高負載應用。
+      - **數據應用與整合**：為340萬日活用戶平台設計數據中台,通過A/B測試提升留存率7.67%，支持實時數據分析;開發OCR工具,將10年人工處理縮至4小時,實現高效數據整合;負責本地數據倉庫向AWS Redshift遷移項目,顯著降低運維成本,提升系統效率.
+      - **核心優勢**：熟練應用web/移動等多平台應用的前後端框架技術（Django、Swift、WPF等）,擁有從需求分析、系統設計、技術選型到架構設計、測試、部署、CI/CD及運維的全生命周期開發經驗.嚴格遵循數據安全標準,確保合規.
       (詳見項目細節:<a href="https://keinchan.com/resume-zh/project.html">https://keinchan.com/resume-zh/project.html</a>)
     changelanguage: To English
     changelanguageurl: https://keinchan.com/resume/ 
 
 experiences:
 
-    - role: 全棧技術顧問 & 數據架構師
+    - role: 全棧工程師 & 數據架構師
       time: 2022.11 - 至今
       company: Amigo技術咨詢工作室, 東京 
       details: |
