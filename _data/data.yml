@@ -30,9 +30,9 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://keinchan.com/resume-zh/assets/KeinChan_Resume_202506.pdf
+    pdf: https://keinchan.com/resume-zh/assets/KeinChan_Resume_202509.pdf
     # excel: https://keinchan.com/resume-zh/assets/陳啓瑩履歴書202505.xls
-    word: https://keinchan.com/resume-zh/assets/KeinChan_Resume_202506.docx
+    word: https://keinchan.com/resume-zh/assets/KeinChan_Resume_202509.docx
 
     languages:
       - idiom: 日語
@@ -144,6 +144,9 @@ experiences:
       company: Lino-A Co, 京都
       details: |
         用WordPress開發了面向遊客的多語言多機種對應旅遊資訊系統平台,為下田市觀光協會,彥根市觀光協會提供服務.
+        <br/>
+        <br/>
+        <br/>
 
       goToProject: 點此轉到項目細節頁面.
 education:
